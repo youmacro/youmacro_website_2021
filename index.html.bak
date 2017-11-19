@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>YouMacro</title>
+  </head>
+  <body>
+    <p style="text-align: center;"><img src="logo_with_text_rendered.png" alt=""
+        style="width: 100px; height: 119px;"></p>
+    <ul style="text-align: center;">
+    </ul>
+    <div style="text-align: center;"><span style="font-family: Georgia;">Download
+        any video from any site.</span><br>
+      <span style="font-family: Georgia;">Watch later without wifi or cell
+        service.</span><br>
+      <span style="font-family: Georgia;">100% free.</span></div>
+    <ul style="text-align: center;">
+    </ul>
+    <h3 style=" text-align: center;"><span style="color: red;">The Download
+        Button<br>
+      </span></h3>
+    <p style="text-align: center;">Simply navigate to a page where you can play
+      a video.<br>
+      Then tap the download button.</p>
+    <center> <iframe src="https://www.youtube.com/embed/nafY4LXfHg4?rel=0&amp;showinfo=0"
+        allowfullscreen="" style="border:2px solid lightgrey;" height="315" frameborder="0"
+        width="560"></iframe></center>
+    <p></p>
+    <span style="font-family: Georgia;"></span>
+    <h3 style="   text-align: center;"><span style="font-family: Georgia;"><span
+          style="color: red;">Installation<br>
+        </span></span></h3>
+    <p style="text-align: center;">Download <a href="file:///E:/src/youmacro.github.io/YouMacro-0.1-release.apk">YouMacro</a>
+      for Android.<br>
+      Tap the file to install it.</p>
+    <h3 style="  text-align: center;"><span style="color: red;">Permissions</span></h3>
+    <p style="text-align: center;">Android 8.0 and higher: <br>
+      enable your browser (such as Chrome) to install apps<span> under the </span><strong>Install
+        unknown apps</strong><span>&nbsp;</span>system setting.</p>
+    <p style="text-align: center;">Android 7.1.1 and lower: <br>
+      enable the<span>&nbsp;</span><b style="font-weight: bold;">Unknown sources</b><span>
+      </span>setting, found in<span>&nbsp;</span><b style="font-weight: bold;">Settings
+        &gt; Security</b><span></span>.</p>
+    <p style="text-align: left;"></p>
+    <p style="text-align: left;"><span style="font-family: Georgia;"></span><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>
