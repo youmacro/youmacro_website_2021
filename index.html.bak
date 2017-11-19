@@ -43,7 +43,18 @@
 
         width="560"></iframe></center>
     <p></p>
-    <span style="font-family: Georgia;"></span>.
+    <div style="text-align: center;">
+      <h3><span style="color: red;">How to Install YouMacro</span></h3>
+      <p>Download <a href="YouMacro-0.1-release.apk">YouMacro</a> for Android.<br>
+        Tap the file to install it.</p>
+      <center>
+        <p><br>
+          <iframe src="https://www.youtube.com/embed/idzNfh5zZHM?rel=0&amp;showinfo=0"
+
+            allowfullscreen="" style="border:2px solid lightgrey;" height="315" frameborder="0" width="560"></iframe>
+        </p>
+      </center>
+    </div>
     <h3 style="  text-align: center;"><span style="color: red;">Permissions</span></h3>
     <p style="text-align: center;">Android 8.0 and higher: <br>
       Enable your browser (such as Chrome) to install apps<span> under the </span><strong>Install
