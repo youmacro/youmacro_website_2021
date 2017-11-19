@@ -6,7 +6,9 @@
   </head>
   <body>
     <div style="text-align: right;"><a href="topvideos/index.html"><span style="color: red;">See
-          Our Top Video Picks</span></a></div>
+          Our Top Video Picks<br>
+          <br>
+        </span></a></div>
     <div style="text-align: center;"><img src="logo_with_text_rendered.png" alt=""
         style="width: 173px; height: 204px;"><br>
     </div>
